@@ -4,7 +4,13 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 # Screenshots
 
+1). Desktop Design:
 
+![Desktop-Design](https://github.com/vishalyv252/business--blog-card/assets/105093020/9152c106-5ac6-45e3-a9c1-99a7a6d7304d)
+
+2). Mobile Design:
+
+![Mobile-Design](https://github.com/vishalyv252/business--blog-card/assets/105093020/c4262c8d-f399-4cd0-880f-2870d59a11bc)
 
 # Development server
 
